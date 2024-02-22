@@ -1,5 +1,10 @@
 ### Hi there 👋
+I don’t have much idea on how to edit this so yeah, this is it for now.
 
+- 🔭 I’m currently working on ... Global Game Jam (As a team)
+- 🌱 I’m currently learning ... Python
+- 📫 How to reach me: ... @hastkraftfrisk
+- 😄 Pronouns: ... he/him/his
 <!--
 **HKFrisk/HKFrisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
