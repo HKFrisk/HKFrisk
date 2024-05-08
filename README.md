@@ -1,7 +1,7 @@
 ### Hi there 👋
 I don’t have much idea on how to edit this so yeah, this is it for now.
 
-- 🔭 I’m currently working on ... Global Game Jam (As a team)
+- 🔭 I’m currently working on ... Nothing special
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me: ... @hastkraftfrisk
 - 😄 Pronouns: ... he/him/his
